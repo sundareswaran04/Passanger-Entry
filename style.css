@@ -1,0 +1,40 @@
+*{
+    margin:10px;
+    padding:10px;
+    text-align:center;
+}
+body{
+    background-color:blueviolet;
+    background-position:center;
+    background-size:130%;
+    backface-visibility:10%;
+    
+}
+div{
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:30px;
+    margin:30px;
+    display: inline-block;
+    background-color:color(srgb 255 255 255);
+    border-color:transparent;
+    outline:2px solid ;
+    border-radius:5px;
+}
+button{
+    background-color:red;
+    border-radius:5px;
+    outline:none;
+    color:white;
+    font-size:20px;
+    cursor: pointer;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.save{
+    background-color:green;
+}
+.clc
+{
+    background-color:blue;
+}
